@@ -26,14 +26,12 @@ Este sistema foi desenvolvido para otimizar o tempo de higienização hospitalar
 
 ## 🚀 Demonstração
 
-<!-- Adicione suas imagens e GIFs aqui -->
 ### Screenshots
-![alt text](assets/login.png)
-![alt text](assets/interface.png)
+![alt text](assets/login.png) ![alt text](assets/interface.png)
+
 
 ### Demo em Funcionamento
-![alt text](assets/higipro.gif)
-![alt text](assets/higipro4.gif)
+![alt text](assets/higipro.gif) ![alt text](assets/higipro4.gif)
 
 ## 🛠️ Tecnologias Utilizadas
 
